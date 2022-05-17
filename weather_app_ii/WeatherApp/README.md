@@ -1,2 +1,0 @@
-# WeatherApp
- With Mr.Mhlaba
